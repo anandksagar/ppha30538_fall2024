@@ -1,0 +1,60 @@
+---
+title: "Problem Set 2"
+author: "Anand kshirsagar"
+date: "2024-10-12"
+format: 
+    html:
+        code-overflow: wrap 
+execute:
+  eval: true
+  echo: true
+---
+
+1. **PS2:** Due Sat Oct 19 at 5:00PM Central. Worth 100 points. 
+
+We use (`*`) to indicate a problem that we think might be time consuming. 
+
+Steps to submit (10 points on PS2)
+
+1. "This submission is my work alone and complies with the 30538 integrity
+policy." Add your initials to indicate your agreement: \*\*anand kshirsagar\*\*
+2. "I have uploaded the names of anyone I worked with on the problem set **[here](https://docs.google.com/forms/d/1-zzHx762odGlpVWtgdIC55vqF-j3gqdAp6Pno1rIGK0/edit)**"  \*\*\_\_\*\* (1 point)
+3. Late coins used this pset: \*\*0\*\* Late coins left after submission: \*\*\_\_\*\*
+4. Knit your `ps1.qmd` 
+    * The PDF should not be more than 25 pages. Use `head()` and re-size figures when appropriate. 
+6. Submit to Gradescope (4 points) 
+7. Tag your submission in Gradescope
+
+
+```{python}
+# the following code will turn off any Python warnings in your code output
+import warnings
+warnings.filterwarnings("ignore")
+```
+
+
+## Data Cleaning continued (15 Points)
+
+
+1. 
+Findings Columns and NA's in it:
+```{python}
+import pandas as pd
+#loading the dataframe
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
